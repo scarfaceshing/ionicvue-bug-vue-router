@@ -1,0 +1,7 @@
+{
+  "name": "skillsready",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
