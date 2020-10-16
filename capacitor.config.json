@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "skillsready",
+  "appName": "ionicvue-bug-vue-router",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "dist",
